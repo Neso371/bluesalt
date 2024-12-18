@@ -1,0 +1,5 @@
+{
+    "env": "demo",
+    "url": "https://demo.mifos.io",
+    "headless": false
+}
